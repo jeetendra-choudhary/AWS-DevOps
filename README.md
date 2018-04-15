@@ -10,7 +10,7 @@
 
 ### Cloud formation
 - Next was the Cloud formation, it was fair amount of explaination however this one is extreamly important and advance topic hence suggest to understand it completly. Some of the complicated parts of these involves CFN Nesting, VPC Formation and Custom Resources. It requires a lot of deep dive and hands on. Clearly there are not enough example and explaination of this in the course carriculam hence suggest you to cover it completly from external resources i.e from you tube and other available resources. Some of the topics to cover -
-	- Cloud formation to create one or more servers with different security groups, subnets within one VPC to understand the concept of these component use [This](https://www.youtube.com/watch?v=fpxDGU2KdkA) You tube vide
+	- Cloud formation to create one or more servers with different security groups, subnets within one VPC to understand the concept of these component use [Amazon Virtual Private Cloud (VPC)](https://www.youtube.com/watch?v=fpxDGU2KdkA) You tube video.
 	- An important and very crucial point about the [Subnet and Internet Gatway association](https://stackoverflow.com/questions/42437814/cloudformation-vpc-routing-table-with-no-route-for-internet-gateway)
 	- Many questions that test knowledge on cfn wait condition and handlers
 	- questions on custom resources
