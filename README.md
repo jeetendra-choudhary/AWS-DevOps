@@ -24,3 +24,7 @@
 - [CloudWatch User Guide](http://docs.amazonaws.cn/en_us/AmazonCloudWatch/latest/monitoring/)
 
 - **Read about datapipeline**
+
+*Desclaimer*
+>This is on going study notes and there are various sources for these. Credit belongs to respective authors and sources for it.
+>This is work in progress hence should be considered as one. This doesn't guaranty of success in anyway for the exam.
