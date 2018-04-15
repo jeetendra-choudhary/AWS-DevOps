@@ -1,4 +1,4 @@
-- Followed the Cloud Guru Tutorial 
+	### CI/CD
 	- This was sufficiant for the CI/CD part explains the deployment type conceptually very well, however there are lack of labs or handson. I suggest you to do some parctice of these by your own.
 		- [Practicing Continuous Integration and Continuous Delivery on AWS](https://d0.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf)
 	- **Blue Green Deployment should be studied throughly**. Some of the materials as below
