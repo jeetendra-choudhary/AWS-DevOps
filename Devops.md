@@ -18,9 +18,9 @@
 	- autoscaling lifecycle hooks
 
 ### Opswork
-	- [Managing Multi-Tiered Applications with AWS OpsWorks](https://d0.awsstatic.com/whitepapers/managing-multi-tiered-web-applications-with-opsworks.pdf)
+- [Managing Multi-Tiered Applications with AWS OpsWorks](https://d0.awsstatic.com/whitepapers/managing-multi-tiered-web-applications-with-opsworks.pdf)
 	
 ### Cloudwatch 
-	- [CloudWatch User Guide](http://docs.amazonaws.cn/en_us/AmazonCloudWatch/latest/monitoring/)
+- [CloudWatch User Guide](http://docs.amazonaws.cn/en_us/AmazonCloudWatch/latest/monitoring/)
 
 - **Read about datapipeline**
