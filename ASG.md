@@ -7,7 +7,9 @@
 
  <table>
  <tr>
+ 	<th>
  	<-------------- Scale Out As Needed -----------------> <br> (These values can be modified based on cloud watch alarm values)
+ 	</th>
  </tr>
  <tr>
  	<td>Minimum Size</td>
