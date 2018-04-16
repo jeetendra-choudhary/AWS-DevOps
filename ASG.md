@@ -6,16 +6,14 @@
  - Suitable for stable demand applications or hourly/daily/weekly demand fluctuations.
 
  <table>
- <tr>
- 	<th>
- 	<-------------- Scale Out As Needed -----------------> <br> (These values can be modified based on cloud watch alarm values)
- 	</th>
- </tr>
+	 <tr>
+	 	<-------------- Scale Out As Needed -----------------> <br> (These values can be modified based on cloud watch alarm values)
+	 </tr>
  <table>
- <tr>
- 	<td>Minimum Size</td>
- 	<td>Desired Capacity</td>
- 	<td>Maximum Size</td>
- </tr>
+	 <tr>
+	 	<td>Minimum Size</td>
+	 	<td>Desired Capacity</td>
+	 	<td>Maximum Size</td>
+	 </tr>
 	</table>
  </table>
