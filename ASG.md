@@ -11,9 +11,11 @@
  	<-------------- Scale Out As Needed -----------------> <br> (These values can be modified based on cloud watch alarm values)
  	</th>
  </tr>
+ <table>
  <tr>
  	<td>Minimum Size</td>
  	<td>Desired Capacity</td>
  	<td>Maximum Size</td>
  </tr>
+	</table>
  </table>
