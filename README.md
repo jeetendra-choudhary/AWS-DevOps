@@ -33,6 +33,13 @@
 - **Many/most questions required knowledge of how to use tools at a deeper level and how to extend them,**
 - **if you see realtime, just select Kinesis.**
 - **How to build app environment using Cloudformation, beanstalk and Opswork. (differences of those services.)**
+- **Skip the ACG's DynamoDB Videos from DevOps Pro exam and just learn it from Associate Developer's Course, should be more than enough to save time and effort**
+- **"pending:complete" does not exist as autoscaling lifecycle hook name. Then, an answer includes that cannot be a right answer.**
+- **FailedDeployment command does not exist with ElasticBeanstalk.**
+- **Focus on question requirements: High availability or/and cost-effective or/and fault-tolerance, ...etc. then pick the answer accordingly.**
+- **Encrypted S3 is a good place to share keys/passwords**
+- **Kinesis is for real-time streaming, But read carefully question to check if it is the case.**
+
 
 ### Other Links
 - [AWS Certified DevOps Engineer | COURSE 3 | Security, Governance, and Validation](https://www.youtube.com/watch?v=uOyMDdTMeIg&list=PLd115Y1edsKL4c-If5nzypF6J337IFkIt)
